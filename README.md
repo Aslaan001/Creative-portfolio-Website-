@@ -1,6 +1,6 @@
 # 🌐 Creative Multi-Page Website — Assignment for Elite8 Digital
 
-Welcome! This project is a submission for the **next round of the hiring process at Elite8 Digital**. It showcases a modern, interactive, and fully responsive multi-page website built using **React and TypeScript**.
+Welcome! This project is a submission for the **Assignment round of the hiring process at Elite8 Digital**. It showcases a modern, interactive, and fully responsive multi-page website built using **React and TypeScript**.
 
 🔗 **Live Demo**: [https://eloquent-tanuki-c5f603.netlify.app/](https://eloquent-tanuki-c5f603.netlify.app/)
 
@@ -8,7 +8,7 @@ Welcome! This project is a submission for the **next round of the hiring process
 
 ## 📄 Project Overview
 
-The goal of this assignment was to design and develop a **visually impressive multi-page website** that demonstrates creativity, clean layout, animations, and responsiveness. This project draws inspiration from reference sites such as [HookUX](https://hookux.com), [RouserLab](https://www.rouserlab.com), and others mentioned in the Elite8 Digital email.
+The goal of this assignment was to design and develop a **visually impressive multi-page website** that demonstrates creativity, clean layout, animations, and responsiveness. This project draws inspiration from reference sites such as [HookUX](https://hookux.com), [RouserLab](https://www.rouserlab.com)  as mentioned in the Elite8 Digital email.
 
 ---
 
@@ -32,6 +32,7 @@ The goal of this assignment was to design and develop a **visually impressive mu
 - ✨ **Interactive UI elements** (hover effects, scroll reveals, etc.)
 - 🧩 **Modular, reusable components** with clear separation of concerns
 - 📬 **Contact form** (Formspree or API-ready)
+- 🔘 **Toggle Button** Easily switch theme from dark to light or light to dark 
 
 ---
 
